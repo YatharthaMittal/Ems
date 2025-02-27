@@ -32,4 +32,4 @@ const AllTask = () => {
   )
 }
 
-export default AllTask 
+export default AllTask
